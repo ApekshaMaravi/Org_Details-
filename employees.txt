@@ -1,0 +1,1 @@
+This is the file for employees record. This include all the basic information of employees such as name, age, employee id, email, address, qualifications, etc.
